@@ -1,6 +1,6 @@
 ## jumpscare
-기본적인 갑툭튀 사이트입니다.
-## 기본 사용법
-출력할 gif를 jump.gif로 저장하고
-재생할 오디오를 jump.mp3로 저장하세요
-(웹 브라우저에서 지원되는 어떤 확장자든 사용이 가능합니다.)
+It's a basic jumpscare site.
+## Basic Usage
+Save the gif you want to output as jump.gif and
+the audio you want to play as jump.mp3
+(You can use any format supported by your web browser).
